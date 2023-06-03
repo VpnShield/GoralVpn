@@ -1,13 +1,13 @@
 {
-"Title": "#توجه",
-"Description" : "- لینک کانال VIP آموزش کسب‌درآمد و تحلیل قیمت بازار و تورم ایران رایگان شد!!\n- اگه میخوای قیمت از داستان پشت پرده کاهش دلار و تورم بعد عید یا ... زودتر با خبر بشی زودتر عضو کانال شو",
-"Link": "tg://join?invite=ndT3RpiB69dkM2I0",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "⚠️ خبر بسیار مهم ⚠️",
+"Description": "● به مناسبت تولد ادمین سازنده فیلترشکن به مدت 2 ساعت ورود به کانال VIP کسب درآمد  رایگانه پس سرییییع عضو شو 👇🏻",
+"Link": "tg://join?invite=qLOGDcdl6vEzYjM0",
+"ColorWave": "#00E5FF",
+"Color": "#00E5FF",
+"ColorWaveTwo": "#00B8D4",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "center",
+"MessageGravity": "right",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "8264",
+"MessageID": "3572",
 "ShowTime": "5",
-"Button": "  عضویت در کانال Vip  ",
-"ButtonCancell": " بعدا ",
+"Button": "  عضویت فوری   ",
+"ButtonCancell": "",
 "Closure": "true",
 "Show": "on"
 }
